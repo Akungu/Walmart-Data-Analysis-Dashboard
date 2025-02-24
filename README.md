@@ -12,4 +12,6 @@ The purpose of this analysis was to study how different factors influence sales 
 •	Unemployment: Unemployment rate
 ## Data set link
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+## Dashboard
+https://github.com/Akungu/Walmart-Data-Analysis-Dashboard/tree/main
 

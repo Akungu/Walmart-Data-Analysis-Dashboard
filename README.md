@@ -13,5 +13,6 @@ The purpose of this analysis was to study how different factors influence sales 
 ## Data set link
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 ## Dashboard
-https://github.com/Akungu/Walmart-Data-Analysis-Dashboard/tree/main
+![Screenshot (453)](https://github.com/user-attachments/assets/c83a196c-ca9e-4598-83f4-f7bac9c21891)
+
 

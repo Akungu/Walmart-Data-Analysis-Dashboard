@@ -19,7 +19,8 @@ Dataset: The data set used included variables such as: store, date, Weekly_Sales
 The data was cleaned before starting the analysis by removing duplicate values, filling in missing values and converting data to other data types (data type conversions) and sorting. This was to ensure that the data was uniform before analyzing it and to help understand the structure of the data. 
 I then explored the data to find out how many rows and columns the data set contained.
 Feature Engineering
-## Data Features: Extracted additional information from date by extracting the date and month so as to provide insights into sales trends over yearly quarters for the period of the 3 years.
+## Data Features
+Extracted additional information from date by extracting the date and month so as to provide insights into sales trends over yearly quarters for the period of the 3 years.
 ## Data Analysis
 Different charts were used to visualize the data and draw meaning from them. 
 Bar charts and pie chart were used to visualize categorical variables of numerical data.

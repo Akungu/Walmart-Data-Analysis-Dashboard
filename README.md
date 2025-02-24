@@ -30,4 +30,10 @@ Line charts were used to show trends between different variables over a continuo
 ## Dashboard
 ![Screenshot (453)](https://github.com/user-attachments/assets/c83a196c-ca9e-4598-83f4-f7bac9c21891)
 
+## Conclusion
+Holiday distribution: The holidays take up only a small percentage (7%) of the total sales days. 
+The total sales for non-holiday days are higher compared to total sales of all holiday days. This suggests that sales performance tend to decline significantly on holidays. This may mean that a lot of people stay home and do not visit stores during holidays.
+Of the three years, 2011 was the best performing year in terms of total sales as a total of $2,455,437,098.73. 
+Weekly sales have a week negative correlation with temperature, CPI, and unemployment. This means that as these factors or variables increase, weekly sales tend to decrease slightly.
+Weekly sales have a very week positive correlation with fuel price. This means that as fuel prices increase, weekly sales tend to increase slightly.
 

@@ -10,5 +10,6 @@ The purpose of this analysis was to study how different factors influence sales 
 •	Fuel_Price: Fuel cost in the region
 •	CPI: Consumer Price Index
 •	Unemployment: Unemployment rate
-
+## Data set link
+https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
